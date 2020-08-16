@@ -1,0 +1,164 @@
+
+										*************************** UNIQUE BST ***************************
+1.) 34090		Intermediate Problem Solving In Java		CIS 36B		Computer Information Systems		Singh, Sukhjit
+         2.) 41882		Introduction To Engineering		ENGR 10		Engineering		Zand, Manizheh
+                   3.) 42886		Statics		ENGR 35		Engineering		Manickam, Sathish
+                             4.) 44159		Data Abstraction And Structures		CIS 22C		Computer Information Systems		Goel, Manish
+                                       5.) 44507		Principles Of Microeconomics		ECON 02		Economics		Blohm, Stephen
+                                                 6.) 45037		Technology Access For Special Needs Students		SPED 245		Special Education		Lakshmanan, Sridevi
+                                                           7.) 44815		Current Topics In Computer Information Systems		CIS 82Z		Computer Information Systems		Elsawah, Ayman
+                                                                     8.) 44991		Literary Magazine I, Student Edition		EWRT 68A		English/Writing		Lisha, Sarah
+                                                                     8.) 44659		Risk Assessment And Mitigation-A Practicum		CIS 95C		Computer Information Systems		Singh, Sukhjit
+                                                 6.) 44373		Java Programming		CIS 35A		Computer Information Systems		Moussalem, Mounjed R
+                                                           7.) 44480		Differential Equations		MATH 02A		Mathematics		Mosh, Farshod
+                                                                     8.) 44486		Integrated Statistics 2		MATH 17		Mathematics		Geraghty, Maurice
+                                                                     8.) 44380		Differential Equations		MATH 02A		Mathematics		Vanniasegaram, Sithparran
+                                                                               9.) 44478		Calculus		MATH 01C		Mathematics		Bloom, Roberta
+                                                           7.) 44286		Integrated Statistics 2		MATH 17		Mathematics		Du, Jianbo
+                                                                     8.) 44225		Critical Reading, Writing And Thinking		EWRT 02		English/Writing		Malone, Brian
+                                                                               9.) 44227		Critical Reading, Writing And Thinking		EWRT 02		English/Writing		Smith, Brian
+                                                                                        10.) 44247		Critical Reading, Writing And Thinking		EWRT 02		English/Writing		Suda, Kanako
+                                       5.) 43275		Data Abstraction And Structures		CIS 22C		Computer Information Systems		Lee-Klawende, Cynthia
+                                                 6.) 43675		Data Abstraction And Structures		CIS 22C		Computer Information Systems		Larkin, Grant B
+                                                           7.) 44027		Solidworks (Intermediate)		DMT 60A		Design & Manufacturing Technologies		KlingMan, Paul
+                                                                     8.) 43796		Special Project In Chemistry		CHEM 77X		Chemistry		Muzzi, Cinzia
+                                                                               9.) 43856		Physical Anthropology		ANTH 01		Anthropology		Andrade, Claudia
+                                                           7.) 43529		Ethical Hacking		CIS 102		Computer Information Systems		Fisk, Leonard
+                                                 6.) 43194		Preparatory Reading And Writing Skills		EWRT 211		English/Writing		Furlan, Diane
+                             4.) 42519		Data Abstraction And Structures		CIS 22C		Computer Information Systems		Parrish, Jennifer L
+                                       5.) 42831		Elementary Spanish (Second Quarter)		SPAN 02		Spanish		Ramos, Cramen
+                                                 6.) 42829		Elementary Spanish (Third Quarter)		SPAN 03		Spanish		Vinall, Kimberly
+                                                           7.) 42807		Freelance Reporting For Student Media		JOUR 62A		Journalism		Deck, Caecelia
+                                                                     8.) 42665		General Chemistry		CHEM 01A		Chemistry		Tong, Homer
+                                                                               9.) 42675		General Chemistry		CHEM 01A		Chemistry		Khouderchah, Nada
+                                                                                        10.) 42677		Organic Chemistry		CHEM 12B		Chemistry		Khouderchah, Nada
+                                       5.) 42227		Elementary American Sign Language (First Quarter)		SIGN 01		Sign Language		Cheung, Michael
+                                                 6.) 42343		Discrete Mathematics		MATH 22		Mathematics		Howard, Wyatt C
+                                                 6.) 42156		Elementary Korean (Third Quarter)		KORE 03		Korean		Lee,Yu
+                   3.) 40168		Principles Of Macroeconomics		ECON 01		Economics		Malek, Ninos
+                             4.) 41854		Finite Mathematics		MATH 11		Mathematics		Shi, KeiJian
+                                       5.) 40670		Precalculus I: Theory Of Functions		MATH 41		Mathematics		De Vogelaere, Charles
+         2.) 00440		Java Programming		CIS 35A		Computer Information Systems		Singh, Sukhjit
+                   3.) 00441		Java Programming		CIS 35A		Computer Information Systems		Lee-Klawende, Cynthia
+                             4.) 00443		Advanced Java Programming		CIS 35B		Computer Information Systems		Singh, Sukhjit
+                                       5.) 01209		Elementary Statistics And Probability		MATH 10		Mathematics		Nguyen, Hung
+                                                 6.) 01736		General Introductory Physics		PHYS 2B		Physics		Newton, David
+                                                           7.) 01748		Concepts Of Physics		PHYS 10		Physics		Luna, Eduardo
+                                                                     8.) 33380		Data Abstraction And Structures		CIS 22C		Computer Information Systems		Garbacea, Delia-Manuela
+                                                                     8.) 01736		General Introductory Physics		PHYS 2B		Physics		Newton, David
+                                                 6.) 01147		Special Projects In Journalism		JOUR 77W		Journalism		Malatesta, Sunny
+                                                           7.) 00464		Windows Administration		CIS 170		Conputer Information Systems		Rueda, Jose
+                                                                     8.) 00739		Composition And Reading		EWRT 1A		English/Writing		Leonard, Amy
+                                                                               9.) 00787		Reading, Writing And Research		EWRT 1B		English/Writing		Pesano, Julie
+                                                                     8.) 00463		Windows Administration		CIS 170		Conputer Information Systems		Sukhjt, Singh
+                   3.) 00079		Cultural Anthropology		ANTH 02		Anthropology		Nengo, Isaiah
+
+										************************* SECONDARY BST **************************
+1.) -1		-1		-1		-1		-1
+         2.) 34090		Intermediate Problem Solving In Java		CIS 36B		Computer Information Systems		Singh, Sukhjit
+                   3.) 41882		Introduction To Engineering		ENGR 10		Engineering		Zand, Manizheh
+                             4.) 42886		Statics		ENGR 35		Engineering		Manickam, Sathish
+                                       5.) 45037		Technology Access For Special Needs Students		SPED 245		Special Education		Lakshmanan, Sridevi
+                                                 6.) 00464		Windows Administration		CIS 170		Conputer Information Systems		Rueda, Jose
+                                                           7.) 00463		Windows Administration		CIS 170		Conputer Information Systems		Sukhjt, Singh
+                                       5.) 44027		Solidworks (Intermediate)		DMT 60A		Design & Manufacturing Technologies		KlingMan, Paul
+                                                 6.) 01147		Special Projects In Journalism		JOUR 77W		Journalism		Malatesta, Sunny
+                                                           7.) 43796		Special Project In Chemistry		CHEM 77X		Chemistry		Muzzi, Cinzia
+                                                 6.) 40168		Principles Of Macroeconomics		ECON 01		Economics		Malek, Ninos
+                                                           7.) 44507		Principles Of Microeconomics		ECON 02		Economics		Blohm, Stephen
+                                                                     8.) 44659		Risk Assessment And Mitigation-A Practicum		CIS 95C		Computer Information Systems		Singh, Sukhjit
+                                                                               9.) 00787		Reading, Writing And Research		EWRT 1B		English/Writing		Pesano, Julie
+                                                           7.) 44373		Java Programming		CIS 35A		Computer Information Systems		Moussalem, Mounjed R
+                                                                     8.) 00440		Java Programming		CIS 35A		Computer Information Systems		Singh, Sukhjit
+                                                                               9.) 00441		Java Programming		CIS 35A		Computer Information Systems		Lee-Klawende, Cynthia
+                                                                                        10.) 40670		Precalculus I: Theory Of Functions		MATH 41		Mathematics		De Vogelaere, Charles
+                                                                                                  11.) 43194		Preparatory Reading And Writing Skills		EWRT 211		English/Writing		Furlan, Diane
+                                                                                                  11.) 42677		Organic Chemistry		CHEM 12B		Chemistry		Khouderchah, Nada
+                                                                                                            12.) 43856		Physical Anthropology		ANTH 01		Anthropology		Andrade, Claudia
+                                                                                                            12.) 44991		Literary Magazine I, Student Edition		EWRT 68A		English/Writing		Lisha, Sarah
+                   3.) 44159		Data Abstraction And Structures		CIS 22C		Computer Information Systems		Goel, Manish
+                             4.) 42519		Data Abstraction And Structures		CIS 22C		Computer Information Systems		Parrish, Jennifer L
+                                       5.) 43275		Data Abstraction And Structures		CIS 22C		Computer Information Systems		Lee-Klawende, Cynthia
+                                                 6.) 43675		Data Abstraction And Structures		CIS 22C		Computer Information Systems		Larkin, Grant B
+                                                           7.) 42831		Elementary Spanish (Second Quarter)		SPAN 02		Spanish		Ramos, Cramen
+                                                                     8.) 42829		Elementary Spanish (Third Quarter)		SPAN 03		Spanish		Vinall, Kimberly
+                                                                               9.) 01209		Elementary Statistics And Probability		MATH 10		Mathematics		Nguyen, Hung
+                                                                                        10.) 41854		Finite Mathematics		MATH 11		Mathematics		Shi, KeiJian
+                                                                                                  11.) 44486		Integrated Statistics 2		MATH 17		Mathematics		Geraghty, Maurice
+                                                                                                            12.) 44286		Integrated Statistics 2		MATH 17		Mathematics		Du, Jianbo
+                                                                                                            12.) 42807		Freelance Reporting For Student Media		JOUR 62A		Journalism		Deck, Caecelia
+                                                                                                                      13.) 01736		General Introductory Physics		PHYS 2B		Physics		Newton, David
+                                                                                                                                14.) 01736		General Introductory Physics		PHYS 2B		Physics		Newton, David
+                                                                                                                                14.) 42665		General Chemistry		CHEM 01A		Chemistry		Tong, Homer
+                                                                                                                                          15.) 42675		General Chemistry		CHEM 01A		Chemistry		Khouderchah, Nada
+                                                                                                  11.) 43529		Ethical Hacking		CIS 102		Computer Information Systems		Fisk, Leonard
+                                                                     8.) 42227		Elementary American Sign Language (First Quarter)		SIGN 01		Sign Language		Cheung, Michael
+                                                                               9.) 42156		Elementary Korean (Third Quarter)		KORE 03		Korean		Lee,Yu
+                                                                               9.) 44480		Differential Equations		MATH 02A		Mathematics		Mosh, Farshod
+                                                                                        10.) 44380		Differential Equations		MATH 02A		Mathematics		Vanniasegaram, Sithparran
+                                                                                                  11.) -1		-1		-1		-1		-1
+                                                                                                            12.) 42343		Discrete Mathematics		MATH 22		Mathematics		Howard, Wyatt C
+                                                                                        10.) 33380		Data Abstraction And Structures		CIS 22C		Computer Information Systems		Garbacea, Delia-Manuela
+         2.) 00443		Advanced Java Programming		CIS 35B		Computer Information Systems		Singh, Sukhjit
+                   3.) 44478		Calculus		MATH 01C		Mathematics		Bloom, Roberta
+                             4.) 01748		Concepts Of Physics		PHYS 10		Physics		Luna, Eduardo
+                                       5.) 00079		Cultural Anthropology		ANTH 02		Anthropology		Nengo, Isaiah
+                                                 6.) 44815		Current Topics In Computer Information Systems		CIS 82Z		Computer Information Systems		Elsawah, Ayman
+                                                 6.) 44225		Critical Reading, Writing And Thinking		EWRT 02		English/Writing		Malone, Brian
+                                                           7.) 44227		Critical Reading, Writing And Thinking		EWRT 02		English/Writing		Smith, Brian
+                                                                     8.) 44247		Critical Reading, Writing And Thinking		EWRT 02		English/Writing		Suda, Kanako
+                                       5.) 00739		Composition And Reading		EWRT 1A		English/Writing		Leonard, Amy
+
+					****************************** HASH TABLE ******************************
+44225		Critical Reading, Writing And Thinking		EWRT 02		English/Writing		Malone, Brian
+33380		Data Abstraction And Structures		CIS 22C		Computer Information Systems		Garbacea, Delia-Manuela
+44507		Principles Of Microeconomics		ECON 02		Economics		Blohm, Stephen
+00443		Advanced Java Programming		CIS 35B		Computer Information Systems		Singh, Sukhjit
+42807		Freelance Reporting For Student Media		JOUR 62A		Journalism		Deck, Caecelia
+40168		Principles Of Macroeconomics		ECON 01		Economics		Malek, Ninos
+43856		Physical Anthropology		ANTH 01		Anthropology		Andrade, Claudia
+44480		Differential Equations		MATH 02A		Mathematics		Mosh, Farshod
+43796		Special Project In Chemistry		CHEM 77X		Chemistry		Muzzi, Cinzia
+44486		Integrated Statistics 2		MATH 17		Mathematics		Geraghty, Maurice
+43529		Ethical Hacking		CIS 102		Computer Information Systems		Fisk, Leonard
+43194		Preparatory Reading And Writing Skills		EWRT 211		English/Writing		Furlan, Diane
+42675		General Chemistry		CHEM 01A		Chemistry		Khouderchah, Nada
+00787		Reading, Writing And Research		EWRT 1B		English/Writing		Pesano, Julie
+44991		Literary Magazine I, Student Edition		EWRT 68A		English/Writing		Lisha, Sarah
+44286		Integrated Statistics 2		MATH 17		Mathematics		Du, Jianbo
+43275		Data Abstraction And Structures		CIS 22C		Computer Information Systems		Lee-Klawende, Cynthia
+01736		General Introductory Physics		PHYS 2B		Physics		Newton, David
+44815		Current Topics In Computer Information Systems		CIS 82Z		Computer Information Systems		Elsawah, Ayman
+41854		Finite Mathematics		MATH 11		Mathematics		Shi, KeiJian
+01736		General Introductory Physics		PHYS 2B		Physics		Newton, David
+01748		Concepts Of Physics		PHYS 10		Physics		Luna, Eduardo
+41882		Introduction To Engineering		ENGR 10		Engineering		Zand, Manizheh
+00079		Cultural Anthropology		ANTH 02		Anthropology		Nengo, Isaiah
+44247		Critical Reading, Writing And Thinking		EWRT 02		English/Writing		Suda, Kanako
+44478		Calculus		MATH 01C		Mathematics		Bloom, Roberta
+42886		Statics		ENGR 35		Engineering		Manickam, Sathish
+44227		Critical Reading, Writing And Thinking		EWRT 02		English/Writing		Smith, Brian
+44373		Java Programming		CIS 35A		Computer Information Systems		Moussalem, Mounjed R
+00739		Composition And Reading		EWRT 1A		English/Writing		Leonard, Amy
+00463		Windows Administration		CIS 170		Conputer Information Systems		Sukhjt, Singh
+42829		Elementary Spanish (Third Quarter)		SPAN 03		Spanish		Vinall, Kimberly
+01147		Special Projects In Journalism		JOUR 77W		Journalism		Malatesta, Sunny
+01209		Elementary Statistics And Probability		MATH 10		Mathematics		Nguyen, Hung
+42227		Elementary American Sign Language (First Quarter)		SIGN 01		Sign Language		Cheung, Michael
+45037		Technology Access For Special Needs Students		SPED 245		Special Education		Lakshmanan, Sridevi
+43675		Data Abstraction And Structures		CIS 22C		Computer Information Systems		Larkin, Grant B
+34090		Intermediate Problem Solving In Java		CIS 36B		Computer Information Systems		Singh, Sukhjit
+42677		Organic Chemistry		CHEM 12B		Chemistry		Khouderchah, Nada
+44380		Differential Equations		MATH 02A		Mathematics		Vanniasegaram, Sithparran
+40670		Precalculus I: Theory Of Functions		MATH 41		Mathematics		De Vogelaere, Charles
+42156		Elementary Korean (Third Quarter)		KORE 03		Korean		Lee,Yu
+42831		Elementary Spanish (Second Quarter)		SPAN 02		Spanish		Ramos, Cramen
+00441		Java Programming		CIS 35A		Computer Information Systems		Lee-Klawende, Cynthia
+44159		Data Abstraction And Structures		CIS 22C		Computer Information Systems		Goel, Manish
+42343		Discrete Mathematics		MATH 22		Mathematics		Howard, Wyatt C
+44027		Solidworks (Intermediate)		DMT 60A		Design & Manufacturing Technologies		KlingMan, Paul
+00440		Java Programming		CIS 35A		Computer Information Systems		Singh, Sukhjit
+42665		General Chemistry		CHEM 01A		Chemistry		Tong, Homer
+00464		Windows Administration		CIS 170		Conputer Information Systems		Rueda, Jose
+44659		Risk Assessment And Mitigation-A Practicum		CIS 95C		Computer Information Systems		Singh, Sukhjit
+42519		Data Abstraction And Structures		CIS 22C		Computer Information Systems		Parrish, Jennifer L
